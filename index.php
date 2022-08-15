@@ -1,2 +1,4 @@
 <?php echo "hello world" ?>
-<?php echo "selamat pagi" ?>
+<?php echo "versi 1 beta" ?>
+
+
